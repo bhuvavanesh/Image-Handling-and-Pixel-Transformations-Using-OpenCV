@@ -1,6 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-- ## Name: N.NIRMAL
-- ## Register Number:212223240107
+- ## Name: BHUVANESH KUMAR R
+- ## Register Number:212223040027
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
