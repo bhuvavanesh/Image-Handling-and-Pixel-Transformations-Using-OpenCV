@@ -269,30 +269,27 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-<img width="392" height="506" alt="image" src="https://github.com/user-attachments/assets/1f4bfc73-572a-4916-9617-85b1b0b27016" />
 
 
 # Draw a line
-<img width="372" height="507" alt="image" src="https://github.com/user-attachments/assets/f343f79a-bf65-4820-b9c1-f9fae7d2e28f" />
 
 # HSV Image
-<img width="381" height="507" alt="image" src="https://github.com/user-attachments/assets/c3d2d3ea-d87c-44f1-b6b4-ec4408cac75a" />
+<
 
 
 # Grayscale Image
-<img width="657" height="432" alt="image" src="https://github.com/user-attachments/assets/d0960903-7e2b-4d91-b1b0-b34e63c751e7" />
+>
 
 
 # YCrCb Image
 
-<img width="647" height="277" alt="image" src="https://github.com/user-attachments/assets/cb1335e8-ca10-4f43-9846-0e004a7d6a92" />
+ />
 
 # Horizontal flip
-<img width="207" height="282" alt="image" src="https://github.com/user-attachments/assets/982ce069-ea36-4e2c-8f19-b0208c3d60a2" />
+
 
 
 # Vertical flip
-<img width="202" height="278" alt="image" src="https://github.com/user-attachments/assets/fc173758-a27a-4c7d-b67b-7aabbb851044" />
 
 ## Result:
 Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
